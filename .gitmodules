@@ -1,0 +1,3 @@
+[submodule "univrepoat"]
+	path = univrepoat
+	url = https://github.com/udemegane/univrepoat.git
