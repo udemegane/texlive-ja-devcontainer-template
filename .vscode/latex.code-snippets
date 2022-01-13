@@ -19,9 +19,9 @@
 		"prefix": "image",
 		"body": [
 			"\\begin{figure}[ht]",
-			"	\\centering",
-			"	\\includegraphics[width=0.6\\linewidth]{path}",
-			"	\\caption{sample}\\label{subfig:sample}",
+			"    \\centering",
+			"    %\\includegraphics[width=0.6\\linewidth]{}",
+			"    \\caption{sample}\\label{subfig:sample}",
 			"\\end{figure}",
 		],
 		"description": "latex image template"
