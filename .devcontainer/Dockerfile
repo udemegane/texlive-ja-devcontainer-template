@@ -6,6 +6,7 @@ RUN apt-get update && apt-get install -y \
     git \
     cpanminus \
     texlive-full \
+    texlive-science \
     make \
     && apt-get clean
 
